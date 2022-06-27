@@ -1,4 +1,8 @@
-### Hi there 👋
+#sobre mim
+- olá,eu sou maiara mitkon;
+- Estou interessado em cursos;
+- Atualmemte estou aprendendo scrath e javascript;
+- Estou diponível para colaborar e ajudar meus colegas;
 
 <!--
 **mayaramih/mayaramih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
